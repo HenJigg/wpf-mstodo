@@ -1,0 +1,15 @@
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\MainWindow.g.cs
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\App.g.cs
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp_MarkupCompile.cache
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp_MarkupCompile.lref
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\MainWindow.baml
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.g.resources
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.Properties.Resources.resources
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\zhouh\Desktop\ToDo实战项目\MicorosoftToDo.Demo\ToDoApp\obj\Debug\ToDoApp.pdb
