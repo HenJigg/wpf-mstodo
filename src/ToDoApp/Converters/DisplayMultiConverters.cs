@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Data;
 
 namespace ToDoApp.Converters
@@ -17,17 +13,9 @@ namespace ToDoApp.Converters
                 if (values.Length == 2)
                 {
                     bool display = false;
-                    if (bool.TryParse(values[0].ToString(), out bool result))
-                    {
-                        display = result;
-                    }
-
+                    if (bool.TryParse(values[0].ToString(), out bool result)) display = result;
                     var title = values[1].ToString();
-
-                    if (title != "我的一天" && !display)
-                    {
-                        return string.Empty;
-                    }
+                    if (title != "我的一天" && !display) return string.Empty;
                     else
                     {
                         string time = string.Format("{0:M}", DateTime.Now);
@@ -44,7 +32,6 @@ namespace ToDoApp.Converters
 
         public object[] ConvertBack(object value, Type[] targetTypes, object parameter, CultureInfo culture)
         {
-            throw new NotImplementedException();
         }
     }
 }
